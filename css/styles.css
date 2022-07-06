@@ -1,0 +1,27 @@
+body {
+    background-color: #FFFFDE;
+}
+
+img {
+    height: 200px;
+}
+
+hr {
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color: #CED89E;
+    background-color: inherit;
+}
+
+h1 {
+    color: #87805E;
+}
+
+h2 {
+    color: #87805E;
+}
+
+h3 {
+    color: #87805E;
+}
